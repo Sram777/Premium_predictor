@@ -62,7 +62,7 @@ Comparison of Models:
 After training and evaluating the models, we compare their performance using the Mean Average Error (MAE),Mean Squared Error (MSE) and R-squared (R²) metrics. These metrics provide insight into the accuracy and explanatory power of the models.
 
 Why Random Forest Regressor is the Best
-The Random Forest Regressor outperforms the other models, as evidenced by its lower MSE and higher R² values. Here are the key reasons why the Random Forest Regressor provides the best results:
+The Random Forest Regressor outperforms the other models, as evidenced by its lower MSE and higher R²(0.86) values. Here are the key reasons why the Random Forest Regressor provides the best results:
 
 Robustness: By averaging the predictions of multiple decision trees, the Random Forest Regressor reduces the risk of overfitting, which is a common issue with individual decision trees.
 Handling Non-linearity: Unlike Linear Regression and Ridge Regression, the Random Forest Regressor can
