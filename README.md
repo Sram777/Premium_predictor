@@ -1,4 +1,6 @@
 Application link:**premiumpredictor-sram.streamlit.app**
+
+
 Insurance companies need to accurately predict the cost of health insurance for individuals to set premiums appropriately. However, traditional methods of cost prediction often rely on broad actuarial tables and historical averages, which may not account for the nuanced differences among individuals. Data science addresses these issues by analyzing variable interactions to uncover patterns and trends. Using clustering algorithms, insurers can segment customers based on similar characteristics, enabling more targeted sales strategies and accurate pricing models. By leveraging predictive machine learning techniques, insurers can predict more accurately the insurance costs tailored to individual profiles, leading to more competitive pricing and better risk management.
 The Data and insights
 The dataset includes 986 samples and 11 attributes related to health and demographic factors. These attributes cover various health conditions, medical history, and basic physical measurements. The data provides a comprehensive overview that can be analyzed to understand patterns and correlations affecting health insurance premiums.
